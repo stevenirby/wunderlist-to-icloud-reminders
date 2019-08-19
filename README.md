@@ -1,4 +1,4 @@
-# wunderlist to iCloud Reminders
+# Wunderlist to iCloud Reminders
 
 Export Wunderlist TODOs to iCloud reminders.
 
