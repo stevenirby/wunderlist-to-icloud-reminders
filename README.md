@@ -6,6 +6,8 @@ This script just blindly dumps all exported TODOs from wunderlist and runs a sim
 
 If using iCloud for reminders, you'll see all imported reminders on all devices also using iCloud.
 
+You could also run this script via a cronjob to regularly import wunderlist TODOs, though you'll need to manually complete all the TODOs on wunderlist.
+
 ## Prerequisites
 
 - [wunderlist](https://github.com/wayneashleyberry/wunderline) (must authenticate wunderlsit) or JSON export of all wunderlist TODOs
